@@ -15,26 +15,31 @@ section{
   align-items: center;
 }
 section:nth-child(1){
-  color: #e0ffff;
+  color: #c7ad8c #e0ffff;
   }
 section:nth-child(2){
   color: #42455a;
-  background: #e0ffff;
+  background: #c7ad8c #e0ffff;
 }
 section:nth-child(3){
-  color: #e0ffff;
+  color: #c7ad8c #e0ffff;
 }
 section:nth-child(4){
   color: #42455a;
-  background: #e0ffff;
+  background: #c7ad8c #e0ffff;
 }
 section .container{
   margin: 100px;
+  background-color: #c7ad8c;
+  width: 100em;
+  height: 10em;
+  border: blue, 44px;
+  top: 5px;
 }
 section h1{
   font-size: 3rem;
   margin: 20px;
-  color: #516079;
+  color: #c7ad8c, #516079;
 }
 section h2{
   font-size: 40px;
