@@ -1,5 +1,5 @@
 body{
-  background-color: black;
+  background-color: darkslategrey;
   color: white;
 }
 
@@ -18,7 +18,7 @@ body{
   overflow: hidden;
  // border-right: 3px solid;
   font-family: monospace;
-  font-size: 2em;
+  font-size: 3.5em;
 }
 
 @keyframes typing {
@@ -38,7 +38,7 @@ a {
   overflow: hidden;
   position: relative;
   display: inline-block;
-  color: #54b3d6;
+  color:  #54b3d6;
 }
 
 a::before,
